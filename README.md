@@ -1,7 +1,4 @@
 # Journal_Papers
-This includes all my journal publications
-
-# Journal_Papers
 
 This repository contains my peer-reviewed journal publications covering research in **Data Science, Machine Learning, Artificial Intelligence, Statistics, Time Series Analysis, and Applied Mathematics**. The repository serves as a central archive for my published research articles and provides easy access to the associated manuscripts.
 
